@@ -1,0 +1,1 @@
+﻿winrm set winrm/config/service @{EnableCompatibilityHttpListener=”true”}
